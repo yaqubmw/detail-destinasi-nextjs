@@ -2,6 +2,10 @@
 
 Sebuah aplikasi web sederhana untuk menjelajahi destinasi wisata di Indonesia. Dibangun menggunakan Next.js, Tailwind CSS, dan Leaflet.js. Aplikasi ini menampilkan peta interaktif dan deskripsi tempat wisata.
 
+## Live Demo
+
+[https://detail-destinasi-nextjs.vercel.app/](https://detail-destinasi-nextjs.vercel.app/)
+
 ## Fitur
 
 - Peta interaktif dengan penanda lokasi menggunakan Leaflet.js
