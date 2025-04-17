@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Pantai Indah",
+    "city": "Denpasar",
+    "province": "Bali",
+    "description": "Pantai indah dengan pasir putih dan ombak tenang.",
+    "image": "/images/pantai-indah.jpg",
+    "coordinates": { "lat": -8.65, "lng": 115.22 }
+  },
+  {
+    "id": "2",
+    "name": "Gunung Merapi",
+    "city": "Sleman",
+    "province": "Yogyakarta",
+    "description": "Gunung berapi aktif dengan pemandangan menakjubkan.",
+    "image": "/images/gunung-merapi.jpg",
+    "coordinates": { "lat": -7.54, "lng": 110.45 }
+  }
+]
