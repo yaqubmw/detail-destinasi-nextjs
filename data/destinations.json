@@ -1,20 +1,47 @@
 [
   {
     "id": "1",
-    "name": "Pantai Indah",
-    "city": "Denpasar",
-    "province": "Bali",
-    "description": "Pantai indah dengan pasir putih dan ombak tenang.",
-    "image": "/images/pantai-indah.jpg",
-    "coordinates": { "lat": -8.65, "lng": 115.22 }
+    "name": "Mount Merapi",
+    "city": "Sleman",
+    "province": "Yogyakarta",
+    "description": "an active volcano offering breathtaking views and hiking experiences.",
+    "image": "https://images.unsplash.com/photo-1655861467672-215aaeb119ff?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coordinates": { "lat": -7.54, "lng": 110.45 }
   },
   {
     "id": "2",
-    "name": "Gunung Merapi",
-    "city": "Sleman",
+    "name": "Borobudur Temple",
+    "city": "Magelang",
+    "province": "Central Java",
+    "description": "a UNESCO World Heritage site and the largest Buddhist temple in the world.",
+    "image": "https://images.unsplash.com/photo-1631340729644-8b8aad1e9dba?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coordinates": { "lat": -7.6079, "lng": 110.2038 }
+  },
+  {
+    "id": "3",
+    "name": "Dieng Plateau",
+    "city": "Banjarnegara",
+    "province": "Central Java",
+    "description": "a highland area known for its ancient temples, colored lakes, and cool climate.",
+    "image": "https://images.unsplash.com/photo-1611656600199-4d3a8845c233?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coordinates": { "lat": -7.2091, "lng": 109.9207 }
+  },
+  {
+    "id": "4",
+    "name": "Lawang Sewu",
+    "city": "Semarang",
+    "province": "Central Java",
+    "description": "a historic colonial building famous for its architecture and mystery stories.",
+    "image": "https://images.unsplash.com/photo-1739499744304-c5fede411877?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coordinates": { "lat": -6.9848, "lng": 110.4151 }
+  },
+  {
+    "id": "6",
+    "name": "Taman Sari",
+    "city": "Yogyakarta",
     "province": "Yogyakarta",
-    "description": "Gunung berapi aktif dengan pemandangan menakjubkan.",
-    "image": "/images/gunung-merapi.jpg",
-    "coordinates": { "lat": -7.54, "lng": 110.45 }
+    "description": "a former royal garden with bathing complexes and historical ruins.",
+    "image": "https://images.unsplash.com/photo-1630214801769-24784bfd2b9c?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coordinates": { "lat": -7.8142, "lng": 110.3593 }
   }
 ]
